@@ -29,11 +29,10 @@ Atliq Hardware’s Customer Analytics revealed **significant concentration in re
 
 ![image alt](https://github.com/aulifiafarisa/CustomerAnalytics/blob/0239df9a8511a6bcfb76307b419c689adc9360f2/images/Customer%20Analytics%20Overview.png)
 
-**Insight:** The chart follows the Pareto Principle (80/20 Rule), showing that a small number of customers contribute to the majority of revenue. Top three customers (Cus006, Cus005, and Cus007) generate approximately 70% of the total revenue, with Cus006 alone contributing 30%. Beyond the top five customers, revenue contributions drop significantly, indicating a heavy reliance on a few key customers. Customers from Cus016 onward contribute minimal revenue individually, with the cumulative percentage nearing 100% only after including all customers. 
+**Insight:** The dashboard shows **262 total orders** and **9 active customers**, indicating a relatively small but potentially high-value customer base. There are **17 total customers**, with an **average revenue per customer of 106K**. This suggests a concentration of revenue among a small number of customers. The **total revenue is 1.8M**, with an **average order value of 6.9K**. The high AOV indicates that customers are making substantial purchases. 
 
-This highlights a large group of low-performing customers whose contributions are marginal. Heavy dependence on top customers like Cus006 and Cus005 poses a risk if any of these customers reduce their spending or leave. There is untapped potential in the middle-tier customers (Cus007, Cus016, etc.) who could be nurtured to increase their revenue contribution. The long tail of low-performing customers could be analyzed for potential upselling or cross-selling opportunities.
+**Actions:** Explore ways to **increase the number of active customers** while** maintaining the high average revenue per customer**, such as through targeted marketing campaigns and referral programs.
 
-**Actions:** Strengthen Relationships with Top Customers by focusing on retaining Cus006, Cus005, and Cus007 by offering personalized loyalty programs, exclusive deals, or premium services. Conduct periodic reviews with these customers to understand their needs and ensure continued satisfaction. Mitigate Risk of Dependency by diversifying revenue sources by reducing over-reliance on the top three customers. Develop strategies to grow the revenue contribution of mid-tier customers (Cus016, Cus003, etc.).
 
 **2. Customer Contribution Analysis**
 
