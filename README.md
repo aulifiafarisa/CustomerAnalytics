@@ -21,7 +21,7 @@ The Power BI dashboard used to report and explore customer analysis can be found
 ![Table](https://github.com/aulifiafarisa/CustomerAnalytics/blob/a82857ad0f0dd0d5a335469f261779a1da0e2e29/images/ERD%20AtliQ.png)
 
 ## Executive Summary
-Atliq Hardware’s Customer Analytics revealed **significant concentration in revenue among** a small number of customers, with the **top three contributing approximately 70% of total revenue**, highlighting dependency risks. **Purchase patterns** indicate **distinct seasonal peaks** in **June**, **September**, and **November**, suggesting opportunities for targeted campaigns during these periods. Additionally, a** gap exists between high-performing customers** and **mid-tier** or **low-performing segments**, indicating potential for growth through strategic engagement. This analysis provides actionable insights to strengthen relationships with top customers, diversify revenue sources, and optimize sales strategies for sustainable business growth.
+Atliq Hardware’s Customer Analytics revealed **significant concentration in revenue** among a small number of customers, with the **top three contributing approximately 70% of total revenue**, highlighting dependency risks. **Purchase patterns** indicate **distinct seasonal peaks** in **June**, **September**, and **November**, suggesting opportunities for targeted campaigns during these periods. Additionally, a **gap exists between high-performing customers** and **mid-tier** or **low-performing segments**, indicating potential for growth through strategic engagement. This analysis provides actionable insights to strengthen relationships with top customers, diversify revenue sources, and optimize sales strategies for sustainable business growth.
 
 ## Insight Deep Dive
 
@@ -31,7 +31,7 @@ Atliq Hardware’s Customer Analytics revealed **significant concentration in re
 
 **Insight:** The dashboard shows **262 total orders** and **9 active customers**, indicating a relatively small but potentially high-value customer base. There are **17 total customers**, with an **average revenue per customer of 106K**. This suggests a concentration of revenue among a small number of customers. The **total revenue is 1.8M**, with an **average order value of 6.9K**. The high AOV indicates that customers are making substantial purchases. 
 
-**Actions:** Explore ways to **increase the number of active customers** while** maintaining the high average revenue per customer**, such as through targeted marketing campaigns and referral programs.
+**Actions:** Explore ways to **increase the number of active customers** while **maintaining the high average revenue per customer**, such as through targeted marketing campaigns and referral programs.
 
 
 **2. Customer Contribution Analysis**
@@ -68,9 +68,9 @@ This highlights a **large group of low-performing customers** whose contribution
 
 ![image alt](https://github.com/aulifiafarisa/CustomerAnalytics/blob/0239df9a8511a6bcfb76307b419c689adc9360f2/images/Product%20Sold.png)
 
-**Insight:** The Product Sold table provides granular visibility into the individual products purchased by each customer, offering insights beyond just order frequency and revenue. **Analyzing the product codes associated with each customer **can reveal their **unique product preferences**, **purchasing patterns**, and **affinities**.
+**Insight:** The Product Sold table provides granular visibility into the individual products purchased by each customer, offering insights beyond just order frequency and revenue. **Analyzing the product codes associated with each customer** can reveal their **unique product preferences**, **purchasing patterns**, and **affinities**.
 
-**Actions:** This level of detail allows for a more nuanced understanding of each customer's business needs and **opportunities to cross-sell or upsell complementary products.** Empower the sales team with the detailed product code information to have more meaningful, value-added conversations with customers. Utilize the product code data to provide **personalized product recommendations** and create custom bundled offerings for each customer.**** Analyze the product code data to forecast demand at the individual product level, ensuring appropriate inventory levels and reducing stockouts.
+**Actions:** This level of detail allows for a more nuanced understanding of each customer's business needs and **opportunities to cross-sell or upsell complementary products.** Empower the sales team with the detailed product code information to have more meaningful, value-added conversations with customers. Utilize the product code data to provide **personalized product recommendations** and create custom bundled offerings for each customer. Analyze the product code data to forecast demand at the individual product level, ensuring appropriate inventory levels and reducing stockouts.
 
 **4. Customer Segment**
 
